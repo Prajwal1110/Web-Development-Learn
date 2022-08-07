@@ -16,6 +16,7 @@
 | <b>9. Intermidiate JS</b> | <b>10. The Document Object Model</b> | <b>11. The Dice Game</b> | <b>12. Advance JS & DOM</b> |
 | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Love%20Calculator/index.html"> Love Calculator</a> <br> 2. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Leap%20Year%20Check/index.html"> Leap yr Check</a> <br> 3. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Fibbonacci%20Series%20print/index.html"> Fibonacci Series</a> | - |1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Random%20Ludo%20Dice%20thrown/index.html"> Ludo Dice</a> | |
 | <b>13. JQuery</b> | <b>14. The Simon Game</b> | <b>15. The Unix Command Line</b> | <b>16. Backend Web Dev</b> |
+| <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/013%20jQuery/index.html"> jQuery Example</a> | | | |
 | <b>17. Node.js</b> | <b>18. Express.js with Node.js</b> | <b>19. API</b> | <b>20. Git & GitHub</b> |
 
 
