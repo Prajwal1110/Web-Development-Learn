@@ -3,7 +3,7 @@
 |||
 |:---------------------------------:|:---------------------------------:|
 | <b>Course</b> | <b>Course Mentor</b> |
-| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0001%20-%20Introduction%20to%20HTML/Images%20for%20Git/course_banner.png" alt="drawing" width="500"/> | <img src="https://avatars.githubusercontent.com/u/8798027?v=4" alt="drawing" width="150"/>
+| <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0001%20-%20Introduction%20to%20HTML/Images%20for%20Git/course_banner.png" alt="drawing" width="500"/> | <img src="https://avatars.githubusercontent.com/u/8798027?v=4" alt="drawing" width="150"/>
 
 # 📚Lessons
 
@@ -24,11 +24,11 @@
 |||
 |:---------------------------------:|:---------------------------------:|
 | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Calculator/index.html"> <b>Basics Calculator</b> </a> | 2. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/008/BMI%20Calculater/index.html"> <b>BMI Calculator</b> </a> |
-| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0000%20Projects/Basic%20Calculator/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0008%20-%20Introduction%20to%20JavaScript/BMI%20Calculater/demo.png" alt="drawing" width="400"/> | 
+| <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0000%20Projects/Basic%20Calculator/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0008%20-%20Introduction%20to%20JavaScript/BMI%20Calculater/demo.png" alt="drawing" width="400"/> | 
 | 3. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Random%20Ludo%20Dice%20thrown/index.html"> <b>Roll Dice Ludo</b> </a> | 4. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Love%20Calculator/index.html"> <b>Love Calculator</b> </a>  |
-| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0011%20-%20Dice%20Game/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0009%20-%20Intermidiate%20to%20JavaScript/Love%20Calculator/demo.png" alt="drawing" width="400"/> | 
+| <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0011%20-%20Dice%20Game/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0009%20-%20Intermidiate%20to%20JavaScript/Love%20Calculator/demo.png" alt="drawing" width="400"/> | 
 | 5. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Leap%20Year%20Check/index.html"> <b>Leap yr Check</b> </a> | 6. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/009/Fibbonacci%20Series%20print/index.html"> <b>Fibonacci Series </b> </a>  |
-| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0009%20-%20Intermidiate%20to%20JavaScript/Leap%20Year%20Check/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0009%20-%20Intermidiate%20to%20JavaScript/Fibbonacci%20Series%20print/demo.png" alt="drawing" width="400"/> | 
+| <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0009%20-%20Intermidiate%20to%20JavaScript/Leap%20Year%20Check/demo.png" alt="drawing" width="400"/> | <img src="https://github.com/maityamit/Web-Development-Learn/blob/master/Web%20Dev%20by%20Angela%20Yu%20(Udemy)/0009%20-%20Intermidiate%20to%20JavaScript/Fibbonacci%20Series%20print/demo.png" alt="drawing" width="400"/> | 
 
 
 
