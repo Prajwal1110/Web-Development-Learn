@@ -1,0 +1,6 @@
+AMIT@LAPTOP-9P1JJ0MB MINGW64 ~ (team29)
+$ cd "C:\Users\AMIT\Desktop\0 Code & Maity\The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu\0017 - NodeJS"
+
+AMIT@LAPTOP-9P1JJ0MB MINGW64 ~/Desktop/0 Code & Maity/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/0017 - NodeJS (master)
+$ node example.js
+Hello World
